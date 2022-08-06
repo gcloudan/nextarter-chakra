@@ -8,7 +8,7 @@ const SomeText = () => {
       </Heading>
 
       <Text fontSize="xs" color="gray.500">
-       Say welcome to a brand new experience.
+        Say welcome to a brand new experience.
       </Text>
     </Grid>
   );
